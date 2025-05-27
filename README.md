@@ -10,7 +10,7 @@ Estudante de Análise e Desenvolvimento de Sistemas apaixonado por tecnologia e 
 
 # Contato
 - LinkedIn: www.linkedin.com/in/paulo-rafael-brandao 🧑🏻‍💻
-- E-mail: paulorafaelbrandao@gmail.com 📧
+- E-mail: pauloforbusiness@gmail.com 📧
 
 # Projetos
 Aqui você encontrará alguns dos meus projetos pessoais e acadêmicos 📁. Estou constantemente adicionando novos projetos e atualizando os existentes 🔄.
